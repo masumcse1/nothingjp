@@ -1,4 +1,4 @@
-maven-processor-plugin   plugin ok for telve 
+suma
 
 my edit --222
 
